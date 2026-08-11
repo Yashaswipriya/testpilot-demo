@@ -1,0 +1,11 @@
+{
+  "name": "testpilot-demo",
+  "private": false,
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^3.0.0",
+    "typescript": "^5.0.0"
+  }
+}
